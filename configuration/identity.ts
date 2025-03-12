@@ -1,4 +1,4 @@
-export const OWNER_NAME: string = `Kaw Thang Bu`;
+export const OWNER_NAME: string = `Kaw Bu`;
 export const OWNER_DESCRIPTION: string = `Charismatic Second Year CS university student at the University Of Chapel Hill, loves video games and enjoys social interaction.`;
 
 export const AI_NAME: string = `不卡 AI`;
