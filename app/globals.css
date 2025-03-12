@@ -74,5 +74,8 @@ body {
   }
   body {
     @apply bg-background text-foreground;
+    @apply bg-cover bg-center bg-no-repeat;
+    background-image: url('/background.png'); 
   }
+  
 }
